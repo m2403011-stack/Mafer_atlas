@@ -1,0 +1,16 @@
+{
+  "name": "Fisio Atlas 3D",
+  "short_name": "FisioAtlas",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1320",
+  "theme_color": "#0b1320",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
